@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "global": false,
+  "javascript": "banner-widget-js",
+  "i18nresources": "banner-widget",
+  "availableToAllPages": true,
+  "jsEditable": true,
+  "config": {},
+  "translations": [
+    {
+      "language": "en",
+      "name": "Banner widget"
+    },
+    {
+      "language": "ru",
+      "name": "Баннер виджет"
+    }
+  ]
+}

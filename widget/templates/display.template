@@ -1,0 +1,5 @@
+<article class="cc-banner-widget-container">
+  <a id="bannerWidgetLink" class="cc-banner-widget__link" data-bind="ccLink: Page">
+    <img id="bannerWidgetImage"class="cc-banner-widget__img" alt="#" data-bind="attr: {src: bannerWidgetLink}">
+  </a>
+</article>
