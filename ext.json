@@ -1,0 +1,19 @@
+{
+  "extensionID": "f3acef8e-375a-11e4-9c85-ebc5b52923a8",
+  "developerID": "228",
+  "createdBy": "gleb inc",
+  "version": 1,
+  "timeCreated": "2020-01-06",
+  "translations": [
+    {
+      "language": "en",
+      "name": "WOW",
+      "description": "super extensionn"
+    },
+    {
+      "language": "ru",
+      "name": "супер дополнение",
+      "description": "очень классное дополнение, всем советую"
+    }
+  ]
+}
